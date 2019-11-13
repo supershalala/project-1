@@ -91,7 +91,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  max-width: 900px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -213,5 +213,11 @@ h3 {
 .card-title {
 text-align: center;
 border: thick dashed red;
+
+}
+
+.wonkameme {
+  image-rendering: auto;
+
 
 }
