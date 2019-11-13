@@ -217,7 +217,7 @@ border: thick dashed red;
 }
 
 .wonkameme {
-  image-rendering: auto;
-
-
+  width: 100%;
+  height: auto;
+  
 }
