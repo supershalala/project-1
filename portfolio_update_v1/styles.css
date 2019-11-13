@@ -207,4 +207,11 @@ a.social:hover {
 
 h3 {
   color: blue;
+  letter-spacing: 2px;
+}
+
+.card-title {
+text-align: center;
+border: thick dashed red;
+  
 }
